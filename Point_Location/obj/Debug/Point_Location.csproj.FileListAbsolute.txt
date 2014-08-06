@@ -1,0 +1,6 @@
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\bin\Debug\Point_Location.exe.config
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\bin\Debug\Point_Location.exe
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\bin\Debug\Point_Location.pdb
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\obj\Debug\Point_Location.csprojResolveAssemblyReference.cache
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\obj\Debug\Point_Location.exe
+C:\Users\Bojidar\documents\visual studio 2013\Projects\Point_Location\Point_Location\obj\Debug\Point_Location.pdb
